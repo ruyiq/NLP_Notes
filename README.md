@@ -1,6 +1,7 @@
 # NLP - Natural Language Processing with Python
 ## About This Course
   This is a collection of my notes and solutions to the NLP course presented by Jose Portilla, the Head of Data Science at Pierian Data Inc. This course is both well designed and well instructed and perfect for both beginners and intermediate levels who want to deepen their understanding. Highly recommended.
+  
   [Course Website](https://www.udemy.com/course/nlp-natural-language-processing-with-python/learn/lecture/12909914#overview)
 ## What I Have Learnt From This course
 
